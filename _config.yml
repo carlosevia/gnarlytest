@@ -1,0 +1,12 @@
+title: Communication in the Age of AI
+description: An accessible introduction to communication theory and the challenges of AI.
+url: "https://carlosevia.github.io"
+baseurl: "/gnarlytest"
+theme: minima
+markdown: kramdown
+header_pages:
+  - traditions/rhetorical.md
+  - traditions/semiotic.md
+  - traditions/phenomenological.md
+  - traditions/cybernetic.md
+  - traditions/critical.md
