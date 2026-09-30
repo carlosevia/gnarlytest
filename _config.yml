@@ -5,8 +5,8 @@ baseurl: "/gnarlytest"
 theme: minima
 markdown: kramdown
 header_pages:
-  - traditions/rhetorical.md
-  - traditions/semiotic.md
-  - traditions/phenomenological.md
-  - traditions/cybernetic.md
-  - traditions/critical.md
+  - traditions/transmission.md
+  - traditions/semiotics.md
+  - traditions/interpretation.md
+  - traditions/encoding-decoding.md
+  - traditions/algorithmic-intentions.md
